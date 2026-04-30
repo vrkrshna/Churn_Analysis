@@ -112,8 +112,8 @@ Retention is driven more by **purchase timing patterns** than by order volume or
 ├── churn_analysis/
 │   ├── a01_data_preparation.ipynb
 │   ├── a02_EDA_olist_ecommerce.ipynb
-│   ├── a03_analysis.ipynb
-│   ├── a04_feature_engineering_sql.ipynb
+│   ├── a03_feature_engineering_sql.ipynb
+│   ├── a04_analysis.ipynb
 │   └── a05_model.ipynb
 │
 ├── data/
